@@ -11,7 +11,8 @@ node
      {
 	 sh "${mavenHome}/bin/mvn clean package"
 	 }  
-  /*stage('executesonarqubeReport')
+  /*
+  stage('executesonarqubeReport')
      {
 	  sh "${mavenHome}/bin/mvn sonar:sonar"
 	 }  
@@ -34,6 +35,7 @@ node
   regards,
   nagarjunareddy,
   9618338684.''', subject: 'pipe line project', to: 'knagarjunareddy60@gmail.com'
-	}*/
+	}
+    */
 
 }	 
