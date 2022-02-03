@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name> Releases Nexus Repository</name>
-	      <url>http://13.233.120.5:8081/repository/flipcart-release/</url>
+	      <url>http://15.207.88.239:9948/babureddy/repository/facebook-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name> Snapshot Nexus Repository </name>
-	      <url>http://13.233.120.5:8081/repository/flipcart-snapshot/</url>
+	      <ur>lhttp://15.207.88.239:9948/babureddy/repository/facebook-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
