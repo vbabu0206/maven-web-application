@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name> Releases Nexus Repository</name>
-	      <url>http://15.207.88.239:9948/babureddy/repository/facebook-release/</url>
+	      <url>http://13.127.181.241:9948/babureddy/repository/facebook-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name> Snapshot Nexus Repository </name>
-	      <url>http://15.207.88.239:9948/babureddy/repository/facebook-snapshot/</url>
+	      <url>http://13.127.181.241:9948/babureddy/repository/facebook-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
